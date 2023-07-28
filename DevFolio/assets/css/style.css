@@ -30,7 +30,7 @@ a {
 }
 
 a:hover {
-  color: #0078ff;
+  color: #e8ebee;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -41,7 +41,7 @@ a:hover {
 
 .color-a {
   text-decoration: none;
-  color: #0078ff;
+  color: #e4e9ef;
 }
 
 .color-d {
@@ -50,7 +50,7 @@ a:hover {
 
 .color-text-a {
   text-decoration: none;
-  color: #4e4e4e;
+  color: #fef8f8;
 }
 
 .box-shadow,
@@ -100,7 +100,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #060606;
 }
 
 .overlay-mf {
@@ -472,7 +472,7 @@ a:hover {
 }
 
 #header.header-scrolled {
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(130, 130, 130, 0.9);
   padding: 12px 0;
 }
 
@@ -576,7 +576,7 @@ a:hover {
   padding: 10px 20px;
   font-size: 14px;
   text-transform: none;
-  color: #4e4e4e;
+  color: #f6f1f1;
 }
 
 .navbar .dropdown ul a i {
@@ -586,7 +586,7 @@ a:hover {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #0078ff;
+  color: #eaedf1;
 }
 
 .navbar .dropdown:hover>ul {
@@ -691,7 +691,7 @@ a:hover {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #0078ff;
+  color: #f1f3f5;
 }
 
 .navbar-mobile .getstarted,
@@ -726,7 +726,7 @@ a:hover {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #0078ff;
+  color: #ecf0f5;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -747,8 +747,8 @@ a:hover {
   position: absolute;
 }
 
-.hero .overlay-itro {
-  background-color: rgba(0, 0, 0, 0.6);
+/* .hero .overlay-itro {
+  background-color: rgba(134, 131, 131, 0.6);
   position: absolute;
   top: 0;
   left: 0px;
@@ -756,10 +756,10 @@ a:hover {
   height: 100%;
   width: 100%;
   opacity: 0.9;
-}
+} */
 
 .hero .hero-title {
-  color: #fff;
+  color: white;
   font-weight: 600;
   font-size: 3rem;
 }
@@ -806,7 +806,7 @@ a:hover {
 
 .hero-single .breadcrumb {
   background-color: transparent;
-  color: #0078ff;
+  color: #edf0f4;
 }
 
 .hero-single .breadcrumb .breadcrumb-item:before {
@@ -951,6 +951,8 @@ a:hover {
 }
 
 .work-img {
+  /* width: 416px; */
+  /* height: 300px; */
   display: block;
   overflow: hidden;
 }
